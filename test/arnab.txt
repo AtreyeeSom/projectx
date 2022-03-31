@@ -1,0 +1,6 @@
+git checkout -b atree ///branch create
+git fetch ///// all branch can fetch
+
+git checkout atree
+
+git clone https://github.com/AtreyeeSom/projectx.git ///// code down 
